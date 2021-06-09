@@ -1,4 +1,4 @@
-### DOT makes it possible to transform javascript objects using dot notation or array of strings.
+### dot makes it possible to transform javascript objects using dot notation or array of strings.
 
 Check examples directory [examples](https://github.com/muftjs/dot/tree/master/src/examples)
 

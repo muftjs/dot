@@ -7,10 +7,6 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'index.js',
     libraryTarget: 'commonjs2',
-    // library: 'MyLib',
-    // umdNamedDefine: true
-    // library: "webpackNumbers",
-
   },
   resolve: {
     extensions: ['.tsx', '.ts', '.js'],
@@ -28,5 +24,4 @@ module.exports = {
       },
     ],
   },
-  
 };
