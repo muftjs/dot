@@ -1,7 +1,6 @@
 # Built stuff
 build
 cache
-# dist
 #*.min.*
 
 # Node stuff:
@@ -16,4 +15,3 @@ node_modules
 yarn.lock
 
 vendor
-dist
