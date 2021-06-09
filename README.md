@@ -2,6 +2,14 @@
 
 Check examples directory [examples](https://github.com/muftjs/dot/tree/master/src/examples)
 
+## Installation (for standard modern project)
+
+```bash
+yarn add @muft/dot
+# or
+npm install @muft/dot --save
+```
+
 ## isObj
 Test if variable is object or not
 @Returns Boolan (TRUE | FALSE)
